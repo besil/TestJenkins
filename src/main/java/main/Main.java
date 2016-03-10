@@ -10,5 +10,6 @@ public class Main {
         Properties props = new Properties();
         props.load(Main.class.getResourceAsStream("/environment.properties"));
         System.out.println(props.getProperty("environment.name"));
+        System.out.println("End!");
     }
 }
