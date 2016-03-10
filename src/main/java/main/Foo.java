@@ -9,6 +9,6 @@ public class Foo {
     }
 
     public String foo() {
-        return "fo";
+        return "foo";
     }
 }
