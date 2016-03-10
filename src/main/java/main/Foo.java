@@ -9,6 +9,7 @@ public class Foo {
     }
 
     public String foo() {
+        int i = 5;
         return "foo";
     }
 }
