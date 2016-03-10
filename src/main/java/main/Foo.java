@@ -7,4 +7,8 @@ public class Foo {
     public String bar() {
         return "bar";
     }
+
+    public String foo() {
+        return "fo";
+    }
 }
